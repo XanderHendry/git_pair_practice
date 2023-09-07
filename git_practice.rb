@@ -1,3 +1,3 @@
-def hello
+def hello_world 
   puts "hello"
 end
